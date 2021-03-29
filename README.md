@@ -5,10 +5,6 @@
 ## Getting Started
 
 
-
 ### 真机示例图片如下：
 
 [![c9NtBD.jpg](https://z3.ax1x.com/2021/03/29/c9NtBD.jpg)](https://imgtu.com/i/c9NtBD)
-
-
-
